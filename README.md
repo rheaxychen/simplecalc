@@ -1,4 +1,5 @@
-**Please build the program in dev branch**
+### Note
+Please build the program in **dev branch**
 
 # Greetings!
 This homework is designed to force you to exercise your knowledge of the Swift programming language. This homework does not involve iOS in any way.
