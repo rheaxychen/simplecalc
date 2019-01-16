@@ -128,10 +128,10 @@
 		9F6C7CFE1F84A9CD00D7E1F5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				CLASSPREFIX = UW;
+				CLASSPREFIX = rhea;
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = iSchool;
+				ORGANIZATIONNAME = "info449-wi19";
 				TargetAttributes = {
 					9F6C7D051F84A9CD00D7E1F5 = {
 						CreatedOnToolsVersion = 9.0;
